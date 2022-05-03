@@ -1,0 +1,1 @@
+{"V5": {"location": [1189.499865, 487.345394, 0], "tag": "V5", "building": "V5", "node_type": "vacant", "solar": 2, "structure": 3, "size": 1}}
